@@ -1,11 +1,17 @@
 {
     "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "pid": "0x0951",
+        "vid": "0x1666",
+        "sn": "17C0PDN125603",
+        "mac1": "001132123456",
+        "SataPortMap": "56",
+        "DiskIdxMap": "0005",
+        "SasIdxMap": "0",
     },
-    "synoinfo": {},
+    "synoinfo": {
+    "internalportcfg" : "0x0007",
+    "esataportcfg" : "0xfff8"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }

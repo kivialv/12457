@@ -6,7 +6,7 @@
         "mac1": "001132123456",
         "SataPortMap": "56",
         "DiskIdxMap": "0005",
-        "SasIdxMap": "0",
+        "SasIdxMap": "0"
     },
     "synoinfo": {
     "internalportcfg" : "0x0007",
